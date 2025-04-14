@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Suman Dey </h2>
 <h4>I'm a Full Stack Web Developer 🕸 and a learner of Data Science & AI ML 🏹</h4>
 <p>
-  💻 Passionate Full Stack Web Developer<br>
+  💻 Passionate Full Stack MERN Developer<br>
   📚 Currently diving into the world of Data Science<br>
   🚀 Love building web apps with MERN Stack<br>
   🌱 Always learning and experimenting with new tech<br>
