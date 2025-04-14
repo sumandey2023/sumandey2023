@@ -1,10 +1,13 @@
 <h2 align="left">Hi 👋! I'm Suman Dey </h2>
 <h4>I'm a Full Stack Web Developer 🕸 and a learner of Data Science & AI ML 🏹</h4>
-<h5>💻 Passionate Full Stack Web Developer</h5>
-<h5>📚 Currently diving into the world of Data Science</h5>
-<h5>🚀 Love building web apps with MERN Stack</h5>
-<h5>🌱 Always learning and experimenting with new tech</h5>
-<h5>🔗 Let's connect and build something awesome together!</h5>
+<p>
+  💻 Passionate Full Stack Web Developer<br>
+  📚 Currently diving into the world of Data Science<br>
+  🚀 Love building web apps with MERN Stack<br>
+  🌱 Always learning and experimenting with new tech<br>
+  🔗 Let's connect and build something awesome together!
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
