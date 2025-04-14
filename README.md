@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Suman Dey </h2>
-<h2>I'm a Full Stack Web Developer and a learner of Data Science & AI ML</h2>
+<h2 align="left">Hi 👋! I'm Suman Dey </h2>
+<h4>I'm a Full Stack Web Developer 🕸 and a learner of Data Science & AI ML 🏹</h4>
 
 
 <div align="left">
@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  
   <img width="12" />
 
   
