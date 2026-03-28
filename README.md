@@ -9,7 +9,7 @@
 </p>
 <div align="left">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumandey2023&theme=dracula"/>
-  <img  height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1ejd6NmJhanA4amtpemhoYXkwODFuYXRyejM4N2Q1OHdudno1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <!-- <img  height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1ejd6NmJhanA4amtpemhoYXkwODFuYXRyejM4N2Q1OHdudno1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  /> -->
 </div>
 
 
